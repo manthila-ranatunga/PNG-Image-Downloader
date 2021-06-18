@@ -1,1 +1,1 @@
-# PNG-Image-Downloader
+Instructions: https://manthilaranatunga.com/png-image-downloader/
